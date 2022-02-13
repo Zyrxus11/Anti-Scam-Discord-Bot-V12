@@ -51,3 +51,8 @@ Packages
 
 
 [Support Server](https://discord.gg/P946yaXDk4)
+
+
+
+
+**It was easy to do. It took 2 days.**
