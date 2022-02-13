@@ -17,10 +17,6 @@
     "quick.db": "^7.1.3",
     "generate-password": "^1.7.0",
     "ms": "^2.1.3",
-    "statcord.js": "^3.3.0",
-    "@top-gg/sdk": "^3.1.3",
-    "topgg-autoposter": "^2.0.1",
-    "dblapi.js": "^2.4.0",
     "speed-test": "^3.0.0"
   },
   "engines": {
