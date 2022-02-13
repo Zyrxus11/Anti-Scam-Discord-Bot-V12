@@ -103,8 +103,9 @@ client.on('message', async (msg, args)  => {
   if (!msg.guild) return;
      const i = await db.fetch(`kufur_${msg.guild.id}`)
          if (i == "on") {
-
+//Do not enter any site here, it is a scam.
       const kufur = ["dis.gg","rublux.com","rublux.co","discurd","hyper-events","dsc.com","airdrop","discord-faq","discurd.gift","gilt","dicsordgift","discurd.gift","discord.gilt","disscord.com","disscord.gift",".guft","scamlink","developers.tk",".ce","disscord.com","discordepp.com","discordepp.co","discqrd","discooord.net","developers.cf","discoord.gift","discorddevelopers.com"];
+//Do not enter any site here, it is a scam.
   if (kufur.some(word => msg.content.toLowerCase().includes(word)) ) {
       msg.delete()
     db.add(`sendedlink.${msg.author.id}.${msg.guild.id}`, 1)
