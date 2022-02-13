@@ -45,4 +45,4 @@ Packages
     "ms"
     "speed-test"
     
-[Licence](https://github.com/Zyrxus11/Anti-Scam-Discord-Bot-V12/blob/main/README.md)
+[Licence](https://github.com/Zyrxus11/Anti-Scam-Discord-Bot-V12/blob/main/LICENCE.md)
