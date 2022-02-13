@@ -95,7 +95,7 @@ client.elevation = message => {
   return permlvl;
 };
 
-client.login('OTQyMDUxMTEyMjMwNDUzMjU5.Yge3dw.NmJAJBatz0FtsQkdHweTYR73cF8');
+client.login('Your Token');
 
 
 
