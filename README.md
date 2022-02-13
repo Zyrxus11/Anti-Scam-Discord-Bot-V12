@@ -45,4 +45,6 @@ Packages
     "ms"
     "speed-test"
     
-[Licence](https://github.com/Zyrxus11/Anti-Scam-Discord-Bot-V12/blob/main/LICENCE.md)
+[Licence](https://github.com/Zyrxus11/Anti-Scam-Discord-Bot-V12/blob/main/LICENSE)
+[Support Server](https://discord.gg/P946yaXDk4)
+Maker : LOX | Weasley#2429 (576367632752705546)
