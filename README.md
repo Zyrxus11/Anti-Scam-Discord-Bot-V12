@@ -23,7 +23,7 @@ Commands List:
 <td>Shows the help menu</td>
 </tr>
 <tr>
-<td>"{prefix}block-scam on"</td>
+<td>{prefix}block-scam on</td>
 <td>To turn on the system</td>
 </tr>
 <tr>
