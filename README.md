@@ -7,6 +7,49 @@
 
 
 This bot is a bot I made, that blocks scam sites. I recommend the bot prefix +.
+Commands List:
+
+
+
+
+
+<table class="ws-table-all notranslate">
+<tbody><tr>
+<th>Command</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>{prefix}help</td>
+<td>Shows the help menu</td>
+</tr>
+<tr>
+<td>"{prefix}block-scam on"</td>
+<td>To turn on the system</td>
+</tr>
+<tr>
+<td>{prefix}block-scam off</td>
+<td>To turn off the system</td>
+</tr>
+<tr>
+<td>{prefix}scammers</td>
+<td>It sends the links entered by the users to the channel via the webhook.</td>
+</tr>
+</tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 A view from the bot.
 # GIF :
