@@ -10,14 +10,7 @@ exports.run = async (client, message, args) => {
 let member = message.mentions.users.first()
 let sebep = args.slice(0).join(" ")
 let guild = message.guild;
-let kanal = db.fetch(`kanallog_${guild.id}`)
-let sorumlu = db.fetch(`sorumlurol_${guild.id}`)
-let log = `<@${message.author.id}> Destek İstedi.`
 
-  let isim = await db.fetch(`etiketsistem_${message.guild.id}`);
-  let isimYazi;
-  if (isim == null) isimYazi = "Yeni bir destek var!";
-  else isimYazi = `Yeni bir destek var <@&${sorumlu}>! `;
 
       
 
