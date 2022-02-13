@@ -1,5 +1,11 @@
 # Anti-Scam Discord Bot V12!
 
+
+
+![Image](https://cdn.discordapp.com/attachments/915179207938674689/942095283741941780/antiiiiiiscam.png)
+
+
+
 This bot is a bot I made, that blocks scam sites. I recommend the bot prefix +.
 
 A view from the bot.
@@ -14,8 +20,33 @@ Help Menu
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 User Blocked
 ![image](https://user-images.githubusercontent.com/74361674/153769810-a0f16770-d310-45a5-a4f6-dd32f6573a63.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
