@@ -125,7 +125,7 @@ Number of scam links submitted by the user (This Server): ${olamaz}
           .setColor("RED")
        msg.reply(aaaa)
     
-    const webhookClient = new Discord.WebhookClient('942132632005775401', 'Tc0XdQ0wCp6izPxiaN2d0e_103b4cB9HED_8cKeZWhGK8wnYpr_sc3-zJkfmG-HYK_no');
+    const webhookClient = new Discord.WebhookClient('yourwebhookid', 'yourwebhooktoken');
             const aaaaaa = new Discord.MessageEmbed()
           .setAuthor("Scam Link Blocker")
           .setDescription(`
