@@ -1,8 +1,9 @@
-# Discord.JS V12 Boş altyapı!
+# Anti-Scam Discord Bot V12!
 
-Şuanda bunu kullanmıyorum. Yakın zamanda daha basit ve kolay anlaşılacak kendi kullandığım altyapıların boş ve kullanıma hazır halini paylaşıcam.
+This bot is a bot I made, that blocks scam sites. I recommend the bot prefix +.
 
+A view from the bot.
+<a href="https://now-a.go-get-a.life/5nXuyTRvQ">https://now-a.go-get-a.life/5nXuyTRvQ</a>
 
-### İşinize yarayabilecek bazı dökümanlar =>
-https://discord.js.org/<br>
-https://discordjs.guide/
+I made this bot because I was bored. Please install the bot after reading its license.
+
