@@ -33,3 +33,14 @@ On/Off
 I made this bot because I was bored. Please install the bot after reading its license.
 
 **Warning: Do not enter any of the sites in the main section of the bot.**
+
+Packages 
+
+    "discord.js"
+    "figlet"
+    "moment"
+    "moment-duration-format"
+    "quick.db"
+    "generate-password"
+    "ms"
+    "speed-test"
